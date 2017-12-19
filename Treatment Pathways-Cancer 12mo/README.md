@@ -1,7 +1,7 @@
 Treatment Pathways in Patients with Cancer Study Protocol 12 months
 ===============
 
-This is a study of treatment pathways in hypertension, diabetes, and depression in patients with cancer during the first 12 months after initiation of treatment.  Detailed information and protocol is available on the [OHDSI Wiki](http://www.ohdsi.org/web/wiki/doku.php?id=research:treatment_pathways_in_cancer_12mo).
+This is a study of treatment pathways in hypertension, type II diabetes, and depression in patients with cancer during the first 12 months after initiation of treatment.  Detailed information and protocol is available on the [OHDSI Wiki](http://www.ohdsi.org/web/wiki/doku.php?id=research:treatment_pathways_in_cancer_12mo).
 
 **R Version**
 
